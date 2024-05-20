@@ -1,7 +1,7 @@
 # Home
 
-Selamat datang di Repositori Ilmu.
+Welcome to the Second Brain.
 
-Halaman ini bertujuan untuk mengumpulkan pengetahuan dan pengalaman saya.
+The pages here describe my knowledge and experience.
 
-Jika ada masukkan, silahkan sampaikan melalui kontak yang tertera di [https://madecanggih.dev](https://madecanggih.dev/)
+For any inquiries, please do so through my contacts listed on [https://madecanggih.dev](https://madecanggih.dev/)
